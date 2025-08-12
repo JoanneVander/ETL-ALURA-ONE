@@ -1,1 +1,2 @@
-# ETL-ALURA-ONE
+# numpy
+Curso de Numpy na Alura
